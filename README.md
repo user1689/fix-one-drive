@@ -2,7 +2,7 @@
 
 ## Issue
 
-Recently, My onedrive was automatically and randomly upgraded to a new version: **23.246.1127**, but my system only support **23.054.0313** . So I wrote this script for speed up the process of reinstall the older version OneDrive to my computer.
+Recently, My OneDrive was automatically and randomly upgraded to a new version: **23.246.1127**, but my system only support **23.054.0313** . So I wrote this script for speed up the process of reinstall the older version OneDrive to my computer.
 
 ## How to Use?
 
